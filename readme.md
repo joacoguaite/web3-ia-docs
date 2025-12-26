@@ -1,4 +1,3 @@
-image_cdcfe9.png
 # Por qué hablo de protocolos cripto, si lo que me gusta es la literatura
 Llevo meses estudiando Web3. No porque quiera especular con tokens ni porque me haya convertido en blockchain. Lo hago porque intuyo que acá se está escribiendo algo importante —y nadie lo está contando bien.
 La mayoría de los artículos sobre Web3 son insufribles: o te bombardean con siglas incomprensibles o te venden humo libertario. Pero entre el ruido hay ideas genuinamente disruptivas. Ideas que, si las entendés, cambian cómo pensás la tecnología, el poder y la propiedad.
